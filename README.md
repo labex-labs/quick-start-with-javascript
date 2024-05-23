@@ -9,7 +9,7 @@ This course is designed for beginners who want to learn JavaScript and programmi
 
 ## Scenarios
 
-|   Index | Name                         | Difficulty   | URL                                                                  |
+|   Index | Name                         | Difficulty   | Practice                                                             |
 |---------|------------------------------|--------------|----------------------------------------------------------------------|
 |       1 | 📖 Your First JavaScript Lab  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92948'>Start Lab</a>  |
 |       2 | 📖 Basic JavaScript and DOM   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290729'>Start Lab</a> |
@@ -17,4 +17,9 @@ This course is designed for beginners who want to learn JavaScript and programmi
 |       4 | 📖 Data Storage and Retrieval | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290730'>Start Lab</a> |
 |       5 | 📖 Drag and Drop              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290731'>Start Lab</a> |
 |       6 | 📖 Implementing the Summary   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290732'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 
