@@ -20,7 +20,7 @@ This course is designed for beginners who want to learn JavaScript and programmi
 
 ## More
 
-- 🔗 [JavaScript Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [JavaScript Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
+- 🔗 [Web Development Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Web Development Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
 
