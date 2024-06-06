@@ -9,18 +9,18 @@ This course is designed for beginners who want to learn JavaScript and programmi
 
 ## Scenarios
 
-|   Index | Name                         | Difficulty   | Practice                                                             |
-|---------|------------------------------|--------------|----------------------------------------------------------------------|
-|       1 | 📖 Your First JavaScript Lab  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92948'>Start Lab</a>  |
-|       2 | 📖 Basic JavaScript and DOM   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290729'>Start Lab</a> |
-|       3 | 📖 Arrays and Objects         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290728'>Start Lab</a> |
-|       4 | 📖 Data Storage and Retrieval | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290730'>Start Lab</a> |
-|       5 | 📖 Drag and Drop              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290731'>Start Lab</a> |
-|       6 | 📖 Implementing the Summary   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290732'>Start Lab</a> |
+|   Index | Name                                 | Difficulty   | Practice                                                             |
+|---------|--------------------------------------|--------------|----------------------------------------------------------------------|
+|       1 | 📖 Your First JavaScript Lab          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92948'>Start Lab</a>  |
+|       2 | 📖 Basic JavaScript and DOM           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290729'>Start Lab</a> |
+|       3 | 📖 Arrays and Objects                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290728'>Start Lab</a> |
+|       4 | 📖 Data Storage and Retrieval         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290730'>Start Lab</a> |
+|       5 | 📖 Enhancing Personal Finance Tracker | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290731'>Start Lab</a> |
+|       6 | 📖 Implementing the Summary           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290732'>Start Lab</a> |
 
 ## More
 
-- 🔗 [Web Development Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Web Development Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- 🔗 [JavaScript Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [JavaScript Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 
